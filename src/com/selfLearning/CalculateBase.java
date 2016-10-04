@@ -17,10 +17,9 @@ public abstract class CalculateBase {
 
     public CalculateBase(){}
     public CalculateBase(double leftVal, double rightVal){
-
+        this.leftVal = leftVal;
+        this.rightVal = rightVal;
     }
 
     public abstract void calculate();
-
-
 }
