@@ -1,9 +1,9 @@
-package com.selfLearning;
+package com.selfLearning.calcengine;
 
 /**
  * Created by Comarch on 2016-10-04.
  */
-public enum MathCommand {
+enum MathCommand {
     Add,
     Multiply,
     Subtract,

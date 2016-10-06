@@ -1,4 +1,4 @@
-package com.selfLearning;
+package com.selfLearning.calcengine;
 
 /**
  * Created by Comarch on 2016-10-03.
